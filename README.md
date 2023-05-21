@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="C:\Users\Windows\Desktop\Robótica\logAniram2-removebg-preview.png" alt="Tu nombre" width="200px">
+  <img src="logAniram2-removebg-preview.png" alt="Tu nombre" width="200px">
 </h1>
 
 <p align="center">
