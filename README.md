@@ -25,11 +25,12 @@ Dediqué una parte significativa de mi tiempo libre a la programación, trabajan
 
 
 ## Habilidades Técnicas
-
-- Lenguajes de Programación: Python, Arduino, Java, Dart
+#### Python
+#### Arduino
+#### Java
+#### Dart
 - Desarrollo de Aplicaciones: Conocimientos en desarrollo de aplicaciones móviles utilizando frameworks como Flutter
 - Programación de Microcontroladores: Experiencia en programación y desarrollo de proyectos utilizando Arduino
-- Git y Control de Versiones: Competente en el uso de Git para la gestión eficiente del código fuente
 - Resolución de Problemas: Habilidad para analizar y resolver problemas de manera eficiente y efectiva
 - Aprendizaje Rápido: Capacidad para aprender nuevas tecnologías y conceptos de manera rápida y efectiva
 
@@ -43,6 +44,6 @@ Dediqué una parte significativa de mi tiempo libre a la programación, trabajan
 
 ¡Me encantaría discutir oportunidades emocionantes y colaborar en proyectos desafiantes! Puedes contactarme a través de los siguientes medios:
 
-- Correo Electrónico: [marina.escudero@example.com](mailto:marina.escudero@example.com)
+- Correo Electrónico: [marina.escsas@educa.jcyl.es](mailto:marina.escsas@educa.jcyl.es)
 
 ¡Gracias por tu tiempo y consideración! Estoy emocionada por las oportunidades que el futuro tiene reservadas para mí en el mundo de la programación y la tecnología.
