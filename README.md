@@ -22,14 +22,16 @@ En SaFeeder, asumo el rol de desarrolladora y soy responsable de la parte técni
 Trabajar en SaFeeder me ha permitido aplicar mis conocimientos de programación y electrónica en un proyecto real con impacto social. Además, he adquirido experiencia en la integración de tecnologías como la visión por computadora y la Inteligencia Artificial para abordar problemas concretos en nuestro entorno.
 
 ### Proyectos Personales 🤖 | 2020-2023
--2023
-Dediqué una parte significativa de mi tiempo libre a la programación, trabajando en proyectos personales para fortalecer mis habilidades técnicas. Algunos de mis proyectos destacados incluyen:
+- 2023 Dediqué una parte significativa de mi tiempo libre a la programación, trabajando en proyectos personales para fortalecer mis habilidades técnicas. Algunos de mis proyectos destacados incluyen:
 - Desarrollo de un sistema de control de luces utilizando Arduino y Python. Implementé sensores de luz y movimiento para automatizar el encendido y apagado de luces en mi hogar.
 - Creación de una aplicación de seguimiento de hábitos en Python. Utilicé bibliotecas populares como tkinter y SQLite para desarrollar una interfaz intuitiva y almacenar datos de seguimiento de hábitos del usuario.
 - Diseño y desarrollo de un juego de adivinanzas en Java. Utilicé conceptos de programación orientada a objetos para crear un juego interactivo y entretenido.
 
-### Docente  👩‍🏫  | 2019-2023
-
+### Monitora  👩‍🏫  | 2019-2023
+- Hora de Código ´19 - Mbot
+- Hora de Código '20 - Lego Mindstorms
+- Oracle4Girls '22 - Micro Bit
+- Hora de Código '23 - Arduino
 
 ## Idiomas
 
