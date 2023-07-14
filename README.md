@@ -4,6 +4,14 @@
 
 ¡Hola! Soy Marina, una joven entusiasta de la programación y la tecnología. Con formación en Arduino y Python, y con nociones de Java y Dart, estoy emocionada por formar parte de proyectos desafiantes que me permitan seguir desarrollando mis habilidades como desarrolladora de software.
 
+
+## Habilidades Técnicas
+### Arduino
+### Python
+### Java
+### Dart
+
+
 ## Experiencia
 
 ### SaFeeder 🐦 | Grupo Technovation Girls | 2022-2023
@@ -20,19 +28,7 @@ Dediqué una parte significativa de mi tiempo libre a la programación, trabajan
 - Creación de una aplicación de seguimiento de hábitos en Python. Utilicé bibliotecas populares como tkinter y SQLite para desarrollar una interfaz intuitiva y almacenar datos de seguimiento de hábitos del usuario.
 - Diseño y desarrollo de un juego de adivinanzas en Java. Utilicé conceptos de programación orientada a objetos para crear un juego interactivo y entretenido.
 
-
 ### Docente  👩‍🏫  | 2019-2023
-
-
-## Habilidades Técnicas
-### Python
-### Arduino
-### Java
-### Dart
-- Desarrollo de Aplicaciones: Conocimientos en desarrollo de aplicaciones móviles utilizando frameworks como Flutter
-- Programación de Microcontroladores: Experiencia en programación y desarrollo de proyectos utilizando Arduino
-- Resolución de Problemas: Habilidad para analizar y resolver problemas de manera eficiente y efectiva
-- Aprendizaje Rápido: Capacidad para aprender nuevas tecnologías y conceptos de manera rápida y efectiva
 
 
 ## Idiomas
