@@ -13,7 +13,8 @@ En SaFeeder, asumo el rol de desarrolladora y soy responsable de la parte técni
 
 Trabajar en SaFeeder me ha permitido aplicar mis conocimientos de programación y electrónica en un proyecto real con impacto social. Además, he adquirido experiencia en la integración de tecnologías como la visión por computadora y la Inteligencia Artificial para abordar problemas concretos en nuestro entorno.
 
-### Proyectos Personales | 2020-2023
+### Proyectos Personales 🤖 | 2020-2023 (https://github.com/AniramDev/aniramdev/assets/109852596/9d3e9b8b-bd2b-4d32-8a4b-36a92c6ef374)
+-2023
 Dediqué una parte significativa de mi tiempo libre a la programación, trabajando en proyectos personales para fortalecer mis habilidades técnicas. Algunos de mis proyectos destacados incluyen:
 - Desarrollo de un sistema de control de luces utilizando Arduino y Python. Implementé sensores de luz y movimiento para automatizar el encendido y apagado de luces en mi hogar.
 - Creación de una aplicación de seguimiento de hábitos en Python. Utilicé bibliotecas populares como tkinter y SQLite para desarrollar una interfaz intuitiva y almacenar datos de seguimiento de hábitos del usuario.
@@ -21,8 +22,8 @@ Dediqué una parte significativa de mi tiempo libre a la programación, trabajan
 
 ## Educación
 
-### Título de la ESO | Colegio XYZ | 2020-2023
-Durante mis estudios de educación secundaria, adquirí una base sólida en matemáticas y ciencias, lo que me brindó una comprensión profunda de los fundamentos que sustentan la programación. También fui reconocida por mi habilidad para resolver problemas y mi capacidad para trabajar en equipo.
+### Título de la ESO | IES Zorrilla | 2019-2023
+Durante mis estudios de educación secundaria, adquirí una base sólida en matemáticas y ciencias, lo que me brindó una comprensión profunda de los fundamentos que sustentan la programación. También fui reconocida por mi habilidad para resolver problemas y mi capacidad para trabajar en equipo. ***
 
 ## Habilidades Técnicas
 
