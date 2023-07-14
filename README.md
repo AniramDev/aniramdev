@@ -25,10 +25,10 @@ Dediqué una parte significativa de mi tiempo libre a la programación, trabajan
 
 
 ## Habilidades Técnicas
-#### Python
-#### Arduino
-#### Java
-#### Dart
+### Python
+### Arduino
+### Java
+### Dart
 - Desarrollo de Aplicaciones: Conocimientos en desarrollo de aplicaciones móviles utilizando frameworks como Flutter
 - Programación de Microcontroladores: Experiencia en programación y desarrollo de proyectos utilizando Arduino
 - Resolución de Problemas: Habilidad para analizar y resolver problemas de manera eficiente y efectiva
