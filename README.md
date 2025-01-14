@@ -2,14 +2,12 @@
 
 👩‍💻 Junior Developer
 
-¡Hola! Soy Marina, una joven entusiasta de la programación y la tecnología. Con formación en Arduino y Python, y con nociones de Java y Dart, estoy emocionada por formar parte de proyectos desafiantes que me permitan seguir desarrollando mis habilidades como desarrolladora de software.
+¡Hola! Soy Marina, una joven entusiasta de la programación y la tecnología. Con formación en Arduino y Python. Estoy emocionada por formar parte de proyectos desafiantes que me permitan seguir desarrollando mis habilidades como desarrolladora de software.
 
 
 ## Habilidades Técnicas
 ### Arduino
 ### Python
-### Java
-### Dart
 
 
 ## Experiencia
@@ -42,6 +40,6 @@ Trabajar en SaFeeder me ha permitido aplicar mis conocimientos de programación 
 
 ¡Me encantaría discutir oportunidades emocionantes y colaborar en proyectos desafiantes! Puedes contactarme a través de los siguientes medios:
 
-- Correo Electrónico: [marina.escsas@educa.jcyl.es](mailto:marina.escsas@educa.jcyl.es)
+- Correo Electrónico: [marinaescu6@gmail.com](mailto:marinaescu6@gmail.com)
 
 ¡Gracias por tu tiempo y consideración! Estoy emocionada por las oportunidades que el futuro tiene reservadas para mí en el mundo de la programación y la tecnología.
